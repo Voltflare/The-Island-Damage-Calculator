@@ -975,7 +975,7 @@ var SETDEX_SS = {
     "item":"None",
     "nature":"Adamant",
     "evs":{"sp":100, "at":200},
-    "moves":["Night Slash","Icicle Crash","Poison Jab","Screech"],
+    "moves":["Night Slash","Icicle Crash","Agility","Screech"],
     "gender": "F"
    }
   },
