@@ -9956,7 +9956,7 @@ Ogerpon: {
         abilities: { 0: 'Intimidate' }
     },
     'Kirlia-Toma': {
-        types: ['Psychic'],
+        types: ['Psychic', 'Fairy'],
         bs: { hp: 60, at: 60, df: 55, sa: 100, sd: 75, sp: 70 },
         weightkg: 30.2,
         abilities: { 0: 'Telepathy' }
