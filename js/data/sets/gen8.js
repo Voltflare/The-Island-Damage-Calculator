@@ -87,12 +87,12 @@ var SETDEX_SS = {
    }
   },
     "Zoroark-Dark/Ghost":
-  {"Zyra":
+  {"Zyra/Wraith":
    {"level":60,
     "ability":"Illusion",
     "item":"None",
     "nature":"Naive",
-    "evs":{"sa":200, "sp":100},
+    "evs":{"at":100, "sa":200, "sp":100},
     "moves":["Shadow Claw","Foul Play","Hone Claws","Sludge Bomb"],
     "gender": "F"
    }
@@ -875,7 +875,7 @@ var SETDEX_SS = {
     "ability":"Shell Armor",
     "item":"None",
     "nature":"Relaxed",
-    "evs":{"hp":100, "df":100, "sd":100},
+    "evs":{"hp":100, "df":100, "sd":200},
     "moves":["Acid Spray","Rest","Shelter","Water Pulse"],
     "gender": "F"
    }
@@ -953,7 +953,7 @@ var SETDEX_SS = {
     "item":"None",
     "nature":"Bold",
     "evs":{"sa":100, "sd":100},
-    "moves":["Magic Room", "Psybeam", "Light Screen", "Psyshock"],
+    "moves":["Fire Spin", "Psybeam", "Light Screen", "Psyshock"],
     "gender": "M"
    }
   },
@@ -1297,7 +1297,7 @@ var SETDEX_SS = {
     "ability":"Synchronize",
     "item":"None",
     "nature":"Modest",
-    "evs":{"hp":100, "sa":100},
+    "evs":{"hp":200, "sa":100},
     "moves":["Thunder Wave","Calm Mind","Psychic","Dazzling Gleam"],
     "gender": "M"
    }
@@ -1308,7 +1308,7 @@ var SETDEX_SS = {
       "ability":"Keen Eye",
       "item":"None",
       "nature":"Careful",
-      "evs":{"hp":100, "sp":100},
+      "evs":{"hp":100, "df":100, "sp":100},
       "moves":["Howl","Endure","Reversal","Rock Slide"],
       "gender": "M"
     }
