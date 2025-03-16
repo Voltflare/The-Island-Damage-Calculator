@@ -1522,6 +1522,26 @@ var SETDEX_SS = {
     "gender": "M"
    }
   },
+"Absol":
+    {"Helena Mayes/Maze":
+     {"level":59,
+      "ability":"Justified",
+      "item":"None",
+      "nature":"Lonely",
+      "evs":{"at":100, "sa":100},
+      "moves": ["Knock Off", "Night Slash", "Flamethrower", "Swords Dance"],
+      "gender": "F"
+     },
+  "Valkyra":
+     {"level":62,
+      "ability":"Pressure",
+      "item":"None",
+      "nature":"Naughty",
+      "evs":{"at":100, "df":100},
+      "moves": ["Psycho Cut", "Thief", "Sucker Punch", "Will-O-Wisp"],
+      "gender": "F"
+     }
+  },
 
 
 
