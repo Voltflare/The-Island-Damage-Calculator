@@ -360,7 +360,7 @@ var SETDEX_SS = {
 //   },
     "Lycanroc":
   {"Cal":
-   {"level":51,
+   {"level":53,
     "ability":"Keen Eye",
     "item":"None",
     "nature":"Jolly",
@@ -447,7 +447,7 @@ var SETDEX_SS = {
 //   },
     "Flygon-Fairy/Dragon":
   {"Beacon":
-   {"level":65,
+   {"level":64,
     "ability":"Fairy Aura",
     "item":"None",
     "nature":"Modest",
@@ -1102,7 +1102,7 @@ var SETDEX_SS = {
   },
 "Gardevoir":
   {"Espa Darklight":
-   {"level":56,
+   {"level":57,
     "ability":"Telepathy",
     "item":"None",
     "nature":"Serious",
@@ -1164,7 +1164,7 @@ var SETDEX_SS = {
   },  
 "Togekiss":
   {"Titania Lazulion":
-   {"level":57,
+   {"level":59,
     "ability":"Serene Grace",
     "item":"None",
     "nature":"Naive",
