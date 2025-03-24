@@ -1169,7 +1169,7 @@ var SETDEX_SS = {
     "item":"None",
     "nature":"Naive",
     "evs":{"sp":100, "hp":100},
-    "moves":["Tailwind","Baton Pass","Psychic","Ancient Power"],
+    "moves":["Tailwind","Tri Attack","Psychic","Reflect"],
     "gender": "F"
    }
   },
