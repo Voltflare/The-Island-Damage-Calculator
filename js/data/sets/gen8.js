@@ -1395,9 +1395,9 @@ var SETDEX_SS = {
    {"level":57,
     "ability":"Cursed Body",
     "item":"None",
-    "nature":"Naive",
+    "nature":"Lonely",
     "evs":{"sp":200},
-    "moves":["Toxic","Hex","Will-o-Wisp","Dark Pulse"],
+    "moves":["Toxic","Hex","Will-O-Wisp","Dark Pulse"],
     "gender": "F"
    }
   },
