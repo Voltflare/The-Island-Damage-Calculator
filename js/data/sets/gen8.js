@@ -974,7 +974,7 @@ var SETDEX_SS = {
     "ability":"Pressure",
     "item":"None",
     "nature":"Adamant",
-    "evs":{"sp":100, "at":200},
+    "evs":{"sp":200, "at":200},
     "moves":["Night Slash","Icicle Crash","Agility","Screech"],
     "gender": "F"
    }
