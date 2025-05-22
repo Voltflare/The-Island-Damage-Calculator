@@ -250,7 +250,7 @@ var SETDEX_SS = {
    }
   },
     "Raichu":
-  {"Drifter [-HP]":
+    {"Drifter [-HP]":
    {"level":60,
     "ability":"Lightning Rod",
     "item":"None",
@@ -258,7 +258,16 @@ var SETDEX_SS = {
     "evs":{"at":100, "sp":100},
     "moves":["Electro Ball","Iron Tail","Volt Tackle","Laser Focus"],
     "gender": "M"
-   }
+   },
+  "Perun [+HP]":
+     {"level":62,
+      "ability":"Static",
+      "item":"None",
+      "nature":"Jolly",
+      "evs":{"at":200, "df":100},
+      "moves": ["Iron Tail", "Thunder Punch", "Trailblaze", "Brick Break"],
+      "gender": "M"
+     }
   },
     "Bewear-Fire/Fighting":
   {"Spike":
@@ -378,7 +387,16 @@ var SETDEX_SS = {
     "evs":{"at":100, "df":100},
     "moves":["Sunny Day","Razor Leaf","Dig","Synthesis"],
     "gender": "M"
-   }
+   },
+  "Nifia":
+     {"level":53,
+      "ability":"Chlorophyll",
+      "item":"None",
+      "nature":"Timid",
+      "evs":{"hp":100, "df":100},
+      "moves": ["Sunny Day", "Alluring Voice", "Magical Leaf", "Dig"],
+      "gender": "M"
+     }
   },
     "Garchomp-Dragon/Steel":
   {"Magnus [HP+]":
