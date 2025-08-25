@@ -9861,6 +9861,12 @@ Ogerpon: {
         weightkg: 5,
         abilities: { 0: 'Sand Spit' }
     },
+    'Comfey-Fairy/Flying': {
+        types: ['Fairy', 'Flying'],
+        bs: { hp: 51, at: 52, df: 90, sa: 82, sd: 110, sp: 100 },
+        weightkg: 0.3,
+        abilities: { 0: 'Triage' }
+    },
     
     
     /////////////////////////////////////////////////////////////////////////////////////////////
