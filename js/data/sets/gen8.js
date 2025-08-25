@@ -1288,15 +1288,24 @@ var SETDEX_SS = {
    }
   },
 "Eevee":
-  {"Anisette":
-   {"level":56,
-    "ability":"Adaptability",
+  {"Azalea":
+   {"level":52,
+    "ability":"Run Away",
     "item":"None",
-    "nature":"Lonely",
-    "evs":{"df":100, "sp":100},
-    "moves":["Trailblaze","Copycat","Covet","Swift"],
+    "nature":"Timid",
+    "evs":{"at":100, "sa":100},
+    "moves":["Tackle","Trailblaze","Swift","Quick Attack"],
     "gender": "M"
-   }
+   },
+  "Abrams":
+     {"level":51,
+      "ability":"Water Absorb",
+      "item":"None",
+      "nature":"Careful",
+      "evs":{"hp":100, "sd":100},
+      "moves": ["Water Gun", "Wish", "Charm", "Baby-Doll Eyes"],
+      "gender": "M"
+     }
   },
 "Sirfetch'd":
   {"Roy Ulterege [+HP]":
@@ -1560,6 +1569,25 @@ var SETDEX_SS = {
       "gender": "F"
      }
   },
+"Jolteon":
+  {"Saffron Wojceich":
+   {"level":55,
+    "ability":"Volt Absorb",
+    "item":"None",
+    "nature":"Modest",
+    "evs":{"sd":100},
+    "moves":["Thunder","Sand Attack","Thunder Wave","Swift"],
+    "gender": "M"
+   },
+  "Metagross":
+  {"Project Xerxes [+HP]":
+   {"level":66,
+    "ability":"Clear Body",
+    "item":"None",
+    "nature":"Quiet",
+    "evs":{"at":200, "df":100},
+    "moves":["Psychic Fangs","Stone Edge","Protect","Heavy Slam"]
+   }
 
 
 
