@@ -1579,7 +1579,7 @@ var SETDEX_SS = {
     "moves":["Thunder","Sand Attack","Thunder Wave","Swift"],
     "gender": "M"
    },
-  "Metagross":
+"Metagross":
   {"Project Xerxes [+HP]":
    {"level":66,
     "ability":"Clear Body",
@@ -1587,7 +1587,18 @@ var SETDEX_SS = {
     "nature":"Quiet",
     "evs":{"at":200, "df":100},
     "moves":["Psychic Fangs","Stone Edge","Protect","Heavy Slam"]
+   },
+"Comfey-Fairy/Flying":
+  {"Miasma":
+   {"level":53,
+    "ability":"Triage",
+    "item":"None",
+    "nature":"Quirky",
+    "evs":{"sp":100},
+    "moves":["Grassy Terrain","Aromatherapy","Floral Healing","Tailwind"],
+    "gender": "F"
    }
+  },
 
 
 
