@@ -1589,7 +1589,8 @@ var SETDEX_SS = {
     "evs":{"at":200, "df":100},
     "moves":["Psychic Fangs","Stone Edge","Protect","Heavy Slam"],
     "gender": "N"
-   },
+   }
+  },
 "Comfey-Fairy/Flying":
   {"Kyuwa":
    {"level":53,
