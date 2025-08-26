@@ -1578,7 +1578,8 @@ var SETDEX_SS = {
     "evs":{"sd":100},
     "moves":["Thunder","Sand Attack","Thunder Wave","Swift"],
     "gender": "M"
-   },
+   }
+  },
 "Metagross":
   {"Project Xerxes [+HP]":
    {"level":66,
@@ -1586,10 +1587,11 @@ var SETDEX_SS = {
     "item":"None",
     "nature":"Quiet",
     "evs":{"at":200, "df":100},
-    "moves":["Psychic Fangs","Stone Edge","Protect","Heavy Slam"]
+    "moves":["Psychic Fangs","Stone Edge","Protect","Heavy Slam"],
+    "gender": "N"
    },
 "Comfey-Fairy/Flying":
-  {"Miasma":
+  {"Kyuwa":
    {"level":53,
     "ability":"Triage",
     "item":"None",
