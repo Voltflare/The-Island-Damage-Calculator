@@ -773,7 +773,7 @@ var SETDEX_SS = {
     "item":"None",
     "nature":"Lonely",
     "evs":{"at":100, "sp": 200},
-    "moves":["Leaf Blade","Detect","Icy Wind","Stone Edge"],
+    "moves":["Leaf Blade","Detect","Icy Wind","Leech Seed"],
     "gender": "F"
    }
   },
