@@ -280,7 +280,7 @@ var SETDEX_SS = {
     "gender": "M"
    }
   },
-    "Lucario-Ghost/Steel":
+  "Lucario-Ghost/Steel":
   {"Ninghe":
    {"level":59,
     "ability":"Inner Focus",
@@ -289,16 +289,14 @@ var SETDEX_SS = {
     "evs":{"hp":100, "sd":100},
     "moves":["Shadow Ball","Calm Mind","Shadow Punch","Meteor Mash"],
     "gender": "M"
-   }
-  },
-    "Riolu-Fighting/Ghost-Rose":
-  {"Rose":
+   },
+  "Rose":
    {"level":57,
-    "ability":"Cursed Body",
+    "ability":"Shadow Tag",
     "item":"None",
     "nature":"Naughty",
     "evs":{"at":100, "sp":100},
-    "moves":["Phantom Force","Shadow Sneak","Quick Attack","Rock Smash"],
+    "moves":["Phantom Force","Shadow Sneak","Hex","Rock Smash"],
     "gender": "F"
    }
   },
@@ -324,7 +322,7 @@ var SETDEX_SS = {
     "gender": "F"
    }
   },
-  "Kirlia":
+  "Kirlia-Paklin":
   {"Paklin Costur":
    {"level":50,
     "ability":"Trace",
@@ -335,6 +333,16 @@ var SETDEX_SS = {
     "gender": "M"
    }
 },
+    "Kirlia":
+  {"Paklin TrainingDummy":
+   {"level":50,
+    "ability":"Trace",
+    "item":"None",
+    "nature":"Timid",
+    "evs":{"sa":100, "sp":200},
+    "moves":["Disarming Voice","Psychic","Teleport","Shadow Sneak"],
+    "gender": "M"
+   }
 //     "Skarmory-Steel/Electric":
 //   {"Briar":
 //    {"level":59,
@@ -1599,6 +1607,39 @@ var SETDEX_SS = {
     "nature":"Quirky",
     "evs":{"sp":100},
     "moves":["Grassy Terrain","Aromatherapy","Floral Healing","Tailwind"],
+    "gender": "F"
+   }
+  },
+  "Umbreon":
+  {"Velithorn":
+   {"level":55,
+    "ability":"Inner Focus",
+    "item":"None",
+    "nature":"Careful",
+    "evs":{"at":200},
+    "moves":["Crunch","Yawn","Curse","Moonlight"],
+    "gender": "M"
+   }
+  },
+"Wooloo-Normal/Electric-Lyvalia":
+  {"Lyvalia":
+   {"level":52,
+    "ability":"Fluffy",
+    "item":"None",
+    "nature":"Brave",
+    "evs":{"sd":100, "sp":100},
+    "moves":["Cotton Guard", "Copycat","Zing Zap","Magnet Rise"],
+    "gender": "M"
+   }
+  },
+    "Zoroark":
+  {"Zaelea Drahone":
+   {"level":59,
+    "ability":"Illusion",
+    "item":"None",
+    "nature":"Rash",
+    "evs":{"sa":200, "sd":100},
+    "moves":["Throat Chop","Night Daze","Shadow Claw","Aerial Ace"],
     "gender": "F"
    }
   },
