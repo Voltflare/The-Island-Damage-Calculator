@@ -9967,6 +9967,12 @@ Ogerpon: {
         weightkg: 30.2,
         abilities: { 0: 'Telepathy' }
     },
+    'Kirlia-Paklin': {
+        types: ['Psychic', 'Fairy'],
+        bs: { hp: 70, at: 35, df: 70, sa: 90, sd: 70, sp: 75 },
+        weightkg: 30.2,
+        abilities: { 0: 'Telepathy' }
+    },
     
     //Voltflare because I'm petty
     Voltflare: {
