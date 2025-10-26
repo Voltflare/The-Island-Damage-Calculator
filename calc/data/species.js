@@ -9973,6 +9973,13 @@ Ogerpon: {
         weightkg: 30.2,
         abilities: { 0: 'Telepathy' }
     },
+    "Wooloo-Normal/Electric-Lyvalia": {
+        types: ['Normal','Electric'],
+        bs: { hp: 72, at: 60, df: 85, sa: 60, sd: 75, sp: 68 },
+        weightkg: 6,
+        abilities: { 0: 'Fluffy' },
+        nfe: true
+    },
     
     //Voltflare because I'm petty
     Voltflare: {
