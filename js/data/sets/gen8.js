@@ -342,7 +342,7 @@ var SETDEX_SS = {
     "evs":{"sa":100, "sp":200},
     "moves":["Disarming Voice","Psychic","Teleport","Shadow Sneak"],
     "gender": "M"
-   }
+   },
 //     "Skarmory-Steel/Electric":
 //   {"Briar":
 //    {"level":59,
