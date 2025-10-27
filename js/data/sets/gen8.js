@@ -290,7 +290,8 @@ var SETDEX_SS = {
     "moves":["Shadow Ball","Calm Mind","Shadow Punch","Meteor Mash"],
     "gender": "M"
    },
-  "Rose":
+  "Lucario-Fighting/Ghost":
+  {"Rose":
    {"level":57,
     "ability":"Shadow Tag",
     "item":"None",
