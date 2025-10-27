@@ -9867,6 +9867,12 @@ Ogerpon: {
         weightkg: 0.3,
         abilities: { 0: 'Triage' }
     },
+    'Lucario-Fighting/Ghost': {
+        types: ['Fighting', 'Ghost'],
+        bs: { hp: 70, at: 110, df: 70, sa: 115, sd: 70, sp: 90 },
+        weightkg: 54,
+        abilities: { 0: 'Shadow Tag' }
+    },
     
     
     /////////////////////////////////////////////////////////////////////////////////////////////
