@@ -1646,6 +1646,17 @@ var SETDEX_SS = {
     "gender": "F"
    }
   },
+  "Meowstic":
+  {"Ubel":
+   {"level":53,
+    "ability":"Infiltrator",
+    "item":"None",
+    "nature":"Quiet",
+    "evs":{"df":100, "sd":100},
+    "moves":["Psychic","Endure","Psybeam","Reflect"],
+    "gender": "M"
+   }
+  },
 
 
 
