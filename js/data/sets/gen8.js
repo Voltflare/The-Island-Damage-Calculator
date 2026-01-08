@@ -643,7 +643,7 @@ var SETDEX_SS = {
     "item":"None",
     "nature":"Hardy",
     "evs":{"hp":200, "at":100, "sd":100},
-    "moves":["Horn Leech","Phantom Force","Earthquake","Trick Room"],
+    "moves":["Horn Leech","Phantom Force","Tera Blast Fire","Trick Room"],
     "gender": "M"
    }
   },
