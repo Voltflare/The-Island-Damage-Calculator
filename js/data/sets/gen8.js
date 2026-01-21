@@ -406,8 +406,17 @@ var SETDEX_SS = {
       "nature":"Timid",
       "evs":{"hp":100, "df":100},
       "moves": ["Sunny Day", "Alluring Voice", "Magical Leaf", "Dig"],
+      "gender": "F"
+     },
+  "Niddhogg":
+     {"level":60,
+      "ability":"Chlorophyll",
+      "item":"None",
+      "nature":"Careful",
+      "evs":{"hp":100, "at":100, "df":100},
+      "moves": ["Synthesis", "Leaf Blade", "Curse", "Knock Off"],
       "gender": "M"
-     }
+     },
   },
     "Garchomp-Dragon/Steel":
   {"Magnus [HP+]":
