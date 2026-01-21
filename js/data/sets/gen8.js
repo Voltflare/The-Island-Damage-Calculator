@@ -116,7 +116,7 @@ var SETDEX_SS = {
     "nature":"Jolly",
     "evs":{"at":100},
     "moves":["Earthquake","Rock Slide","Swords Dance","Iron Head"],
-    "gender": ""
+    "gender": "F"
    }
   },
     "Porygon":
@@ -751,6 +751,7 @@ var SETDEX_SS = {
     "nature":"Rash",
     "evs":{"at":100, "sa":100},
     "moves":["Disarming Voice","Confusion","Psyshock", "Payback"],
+    "gender":"F"
    }
   },
   "Salazzle":
