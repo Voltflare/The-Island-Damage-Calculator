@@ -1657,6 +1657,17 @@ var SETDEX_SS = {
     "gender": "M"
    }
   },
+  "Pangoro":
+  {"Klaus":
+   {"level":59,
+    "ability":"Iron Fist",
+    "item":"None",
+    "nature":"Lonely",
+    "evs":{"at":200, "df":100},
+    "moves":["Poison Jab","Drain Punch","Crunch","Bulk Up"],
+    "gender": "M"
+   }
+  },
 
 
 
