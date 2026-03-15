@@ -61,7 +61,7 @@ var SETDEX_SS = {
     "item":"None",
     "nature":"Sassy",
     "evs":{"hp":100, "sa":100, "sd":100},
-    "moves":["Future Sight","Swift","Helping Hand","Copycat"],
+    "moves":["Future Sight","Swift","Helping Hand","Hyper Beam"],
     "gender": "M"
    }
   },
