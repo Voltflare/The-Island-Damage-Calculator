@@ -750,11 +750,8 @@ function calculateGen8(gen, attacker, defender, move, field) {
         !hitsPhysical &&
         defender.named('Latios', 'Latias') &&
         defender.hasItem('Soul Dew')) ||
+        (!hitsPhysical && defender.hasItem('Assault Vest') ||
         (defender.hasItem('Eviolite') && species_1.SPECIES[gen][defender.name].canEvolve))) {
-        dfMods.push(0x1800);
-        description.defenderItem = defender.item;
-    }
-    if (!hitsPhysical && defender.hasItem('Assault Vest') {
         dfMods.push(0x1800);
         description.defenderItem = defender.item;
     }
