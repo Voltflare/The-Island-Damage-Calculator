@@ -253,7 +253,7 @@ function calculateGen8(gen, attacker, defender, move, field) {
         damage.push(0);
         return result;
     }
-    if (move.type === 'Fire' && defender.hasItem("Pyrea's Feather")) {
+    if (move.type === 'Fire' && defender.hasItem('Pyreas Feather')) {
         damage.push(0);
         description.defenderItem = defender.item;
         return result;
