@@ -1710,7 +1710,7 @@ var SETDEX_SS = {
   {"Wren":
    {"level":60,
     "ability":"Sap Sipper",
-    "item":"Pyrea's Feather",
+    "item":"Pyreas Feather",
     "nature":"Adamant",
     "evs":{"hp":200, "at":100, "df":100},
     "moves":["Seed Bomb","Bulk Up","Milk Drink","Bounce"],
