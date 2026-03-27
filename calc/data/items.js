@@ -364,7 +364,7 @@ var SS = SM.concat([
     'Pecha Scarf',
     'Persim Band',
     'Pragmatic Sash',
-    'Pyreas Feather',
+    "Pyrea's Feather",
     'Rainy Ribbon',
     'Rebound Band',
     'Return Band',
