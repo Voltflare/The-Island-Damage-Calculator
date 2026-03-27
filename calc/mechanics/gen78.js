@@ -232,6 +232,10 @@ function calculateSMSS(gen, attacker, defender, move, field) {
         typeEffectiveness /= 2;
         desc.weather = field.weather;
     }
+    if (move.type === 'Fire' && defender.hasItem("Pyrea's Feather")) {
+        description.defenderItem = defender.item;
+        return result;
+    }
     if (move.hasType('Ground') && !move.named('Thousand Arrows') &&
         !field.isGravity && defender.hasItem('Air Balloon')) {
         desc.defenderItem = defender.item;
