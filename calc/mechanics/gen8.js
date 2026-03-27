@@ -253,6 +253,13 @@ function calculateGen8(gen, attacker, defender, move, field) {
         damage.push(0);
         return result;
     }
+    if (move.type === 'Fire' && defender.hasItem("Pyrea's Feather")) {
+        damage.push(0);
+        description.defenderItem = defender.item;
+        return result;
+    }
+
+    "Pyrea's Feather"
     if (field.weather === 'Strong Winds' &&
         defender.hasType('Flying') &&
         types_1.TYPE_CHART[gen][move.type]['Flying'] > 1) {
