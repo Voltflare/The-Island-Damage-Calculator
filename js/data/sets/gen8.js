@@ -824,7 +824,7 @@ var SETDEX_SS = {
   {"Mayumi Higasa [-HP]":
    {"level":59,
     "ability":"Inner Focus",
-    "item":"None",
+    "item":"Black Belt",
     "nature":"Jolly",
     "evs":{"at":100, "sp":300},
     "moves":["Force Palm","U-turn","Acrobatics","Calm Mind"],
@@ -1710,7 +1710,7 @@ var SETDEX_SS = {
   {"Wren":
    {"level":60,
     "ability":"Sap Sipper",
-    "item":"Life Orb",
+    "item":"Pyrea's Feather",
     "nature":"Adamant",
     "evs":{"hp":200, "at":100, "df":100},
     "moves":["Seed Bomb","Bulk Up","Milk Drink","Bounce"],
