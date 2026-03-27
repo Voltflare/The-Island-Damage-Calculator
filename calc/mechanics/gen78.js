@@ -47,7 +47,8 @@ function calculateSMSS(gen, attacker, defender, move, field) {
       (move.named('Dream Eater') &&
         (!(defender.hasStatus('slp') || defender.hasAbility('Comatose')))) ||
       (move.named('Steel Roller') && !field.terrain) ||
-      (move.named('Poltergeist') && !defender.item)
+      (move.named('Poltergeist') && !defender.item) ||
+      (move.type === 'Fire' && defender.hasItem("Pyrea's Feather")) 
   ) {
     return result;
   }
