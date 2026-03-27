@@ -267,7 +267,9 @@ function calculateGen8(gen, attacker, defender, move, field) {
     if (move.type === 'Ground' &&
         move.name !== 'Thousand Arrows' &&
         !field.isGravity &&
-        defender.hasItem('Air Balloon')) {
+        defender.hasItem('Air Balloon')) ||
+    (move.type === 'Fire' && 
+     defender.hasItem("Pyrea's Feather")) {
         description.defenderItem = defender.item;
         damage.push(0);
         return result;
