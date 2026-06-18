@@ -9873,6 +9873,18 @@ Ogerpon: {
         weightkg: 54,
         abilities: { 0: 'Shadow Tag' }
     },
+    'Gardevoir-Psychic/Steel': {
+        types: ['Psychic', 'Steel'],
+        bs: { hp: 68, at: 65, df: 65, sa: 125, sd: 115, sp: 80 },
+        weightkg: 68.4,
+        abilities: { 0: 'Levitate' }
+    },
+    'Garganacl-Rock/Ghost': {
+    types: ['Rock', 'Ghost'],
+    bs: {hp: 100, at: 100, df: 130, sa: 45, sd: 90, sp: 35},
+    weightkg: 240,
+    abilities: {0: 'Purifying Salt'},
+  },
     
     
     /////////////////////////////////////////////////////////////////////////////////////////////
