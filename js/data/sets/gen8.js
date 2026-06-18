@@ -1696,7 +1696,7 @@ var SETDEX_SS = {
     "item":"None",
     "nature":"Adamant",
     "evs":{"hp":200, "sa":100},
-    "moves":["Thumderbolt","Signal Beam","Protect"],
+    "moves":["Thunderbolt","Signal Beam","Protect"],
     "gender": "M"
    }
   },
