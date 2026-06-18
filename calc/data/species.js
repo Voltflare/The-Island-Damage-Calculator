@@ -9876,7 +9876,7 @@ Ogerpon: {
     'Gardevoir-Psychic/Steel': {
         types: ['Psychic', 'Steel'],
         bs: { hp: 68, at: 65, df: 65, sa: 125, sd: 115, sp: 80 },
-        weightkg: 68.4,
+        weightkg: 96.1,
         abilities: { 0: 'Levitate' }
     },
     'Garganacl-Rock/Ghost': {
