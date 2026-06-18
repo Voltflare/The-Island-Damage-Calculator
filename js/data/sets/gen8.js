@@ -1493,14 +1493,14 @@ var SETDEX_SS = {
     "gender": "F"
    }
   },
- "Garganacl":
+ "Garganacl-Rock/Ghost":
   {"Malik [+HP]":
-   {"level":62,
+   {"level":57,
     "ability":"Purifying Salt",
     "item":"None",
-    "nature":"Naive",
+    "nature":"Hardy",
     "evs":{"hp":100, "at":100, "df":100},
-    "moves":["Salt Cure","Hammer Arm","Fire Punch","Recover"],
+    "moves":["Salt Cure","Hammer Arm","Phantom Force","Recover"],
     "gender": "M"
    }
   },
@@ -1678,6 +1678,29 @@ var SETDEX_SS = {
     "gender": "M"
    }
   },
+  "Gardevoir-Psychic/Steel":
+  {"Saturn [+HP]":
+   {"level":59,
+    "ability":"Levitate",
+    "item":"None",
+    "nature":"Timid",
+    "evs":{"hp":200, "sa":100},
+    "moves":["Wish","Doom Desire","Moonblast","Protect"],
+    "gender": "F"
+   }
+  },
+  "Luxray":
+  {"Siegfried":
+   {"level":53,
+    "ability":"Levitate",
+    "item":"None",
+    "nature":"Adamant",
+    "evs":{"hp":200, "sa":100},
+    "moves":["Thumderbolt","Signal Beam","Protect"],
+    "gender": "M"
+   }
+  },
+
 
 
 
