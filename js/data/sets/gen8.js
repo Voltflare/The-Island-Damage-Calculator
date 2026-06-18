@@ -1680,7 +1680,7 @@ var SETDEX_SS = {
   },
   "Gardevoir-Psychic/Steel":
   {"Saturn [+HP]":
-   {"level":59,
+   {"level":57,
     "ability":"Levitate",
     "item":"None",
     "nature":"Timid",
