@@ -1700,6 +1700,17 @@ var SETDEX_SS = {
     "gender": "M"
    }
   },
+  "Sylveon":
+  {"Shiomi [+HP]":
+   {"level":55,
+    "ability":"Cute Charm",
+    "item":"None",
+    "nature":"Jolly",
+    "evs":{"df":100, "sd":100},
+    "moves":["Helping Hand","Charm","Trailblaze","Disarming Voice"],
+    "gender": "F"
+   }
+  },
 
 
 
