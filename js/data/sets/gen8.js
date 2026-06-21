@@ -1711,6 +1711,17 @@ var SETDEX_SS = {
     "gender": "F"
    }
   },
+  "Arcanine":
+  {"Arcana":
+   {"level":55,
+    "ability":"Flash Fire",
+    "item":"None",
+    "nature":"Jolly",
+    "evs":{"df":100, "sd":100},
+    "moves":["Flamethrower","Fire Fang","Extreme Speed","Agility"],
+    "gender": "F"
+   }
+  },
 
 
 
