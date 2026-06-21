@@ -1717,7 +1717,7 @@ var SETDEX_SS = {
     "ability":"Flash Fire",
     "item":"None",
     "nature":"Jolly",
-    "evs":{"df":100, "sd":100},
+    "evs":{"at":100, "sp":100},
     "moves":["Flamethrower","Fire Fang","Extreme Speed","Agility"],
     "gender": "F"
    }
