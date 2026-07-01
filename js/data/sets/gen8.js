@@ -1438,11 +1438,11 @@ var SETDEX_SS = {
     "gender": "M"
    },
   "Luci":
-     {"level":56,
+     {"level":59,
       "ability":"Snow Warning",
       "item":"None",
       "nature":"Calm",
-      "evs":{"hp":100, "sd":200},
+      "evs":{"hp":100, "sp":200},
       "moves": ["Icy Wind", "Dazzling Gleam", "Confuse Ray", "Disable"],
       "gender": "F"
      }
