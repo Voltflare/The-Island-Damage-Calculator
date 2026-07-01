@@ -1427,8 +1427,8 @@ var SETDEX_SS = {
     "gender": "M"
    }
   },
-"Ninetales-Alola":
-  {"Byrilaes":
+ "Ninetales-Alola":
+    {"Byrilaes":
    {"level":65,
     "ability":"Snow Warning",
     "item":"None",
@@ -1436,7 +1436,16 @@ var SETDEX_SS = {
     "evs":{"hp":100,"def":100,"sd":100},
     "moves":["Blizzard","Aurora Veil","Disable","Howl"],
     "gender": "M"
-   }
+   },
+  "Luci":
+     {"level":56,
+      "ability":"Snow Warning",
+      "item":"None",
+      "nature":"Calm",
+      "evs":{"hp":100, "sd":200},
+      "moves": ["Icy Wind", "Dazzling Gleam", "Confuse Ray", "Disable"],
+      "gender": "F"
+     }
   },
 "Gengar":
   {"Reggie":
