@@ -1733,7 +1733,7 @@ var SETDEX_SS = {
   },
   "Meowscarada":
   {"V [-HP]":
-   {"level":57,
+   {"level":53,
     "ability":"Protean",
     "item":"None",
     "nature":"Relaxed",
