@@ -1731,6 +1731,17 @@ var SETDEX_SS = {
     "gender": "F"
    }
   },
+  "Meowscarada":
+  {"V [-HP]":
+   {"level":57,
+    "ability":"Protean",
+    "item":"None",
+    "nature":"Relaxed",
+    "evs":{"at":100, "sp":100},
+    "moves":["Night Slash", "Petal Blizzard","Worry Seed","Taunt"],
+    "gender": "F"
+   }
+  },
 
 
 
