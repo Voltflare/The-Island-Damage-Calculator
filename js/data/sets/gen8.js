@@ -276,7 +276,7 @@ var SETDEX_SS = {
     "item":"None",
     "nature":"Naughty",
     "evs":{"at":100, "df":100},
-    "moves":["Will-O-Wisp","Temper Flare","Payback","Thunder Punch"],
+    "moves":["Will-O-Wisp","Temper Flare","Hammer Arm","Thunder Punch"],
     "gender": "M"
    }
   },
@@ -298,7 +298,7 @@ var SETDEX_SS = {
     "item":"None",
     "nature":"Naughty",
     "evs":{"at":100, "sp":100},
-    "moves":["Phantom Force","Shadow Sneak","Hex","Rock Smash"],
+    "moves":["Bitter Malice","Life Dew","Focus Energy","Rock Smash"],
     "gender": "F"
    }
   },
