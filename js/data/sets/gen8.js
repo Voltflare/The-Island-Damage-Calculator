@@ -1438,7 +1438,7 @@ var SETDEX_SS = {
     "gender": "M"
    },
   "Luci":
-     {"level":59,
+     {"level":62,
       "ability":"Snow Warning",
       "item":"None",
       "nature":"Calm",
