@@ -298,7 +298,7 @@ var SETDEX_SS = {
     "item":"None",
     "nature":"Naughty",
     "evs":{"at":100, "sp":100},
-    "moves":["Bitter Malice","Life Dew","Focus Energy","Rock Smash"],
+    "moves":["Bitter Malice","Life Dew","Focus Energy","Drain Punch"],
     "gender": "F"
    }
   },
