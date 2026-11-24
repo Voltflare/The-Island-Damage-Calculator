@@ -10004,6 +10004,13 @@ Ogerpon: {
         abilities: { 0: 'Fluffy' },
         nfe: true
     },
+    "Charcadet-Aeriditz": {
+    types: ['Fire'],
+    bs: {hp: 65, at: 83, df: 80, sa: 80, sd: 65, sp: 37},
+    weightkg: 10.5,
+    abilities: {0: 'Flash Fire'},
+    nfe: true,
+  },
     
     //Voltflare because I'm petty
     Voltflare: {
