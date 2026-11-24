@@ -9885,6 +9885,12 @@ Ogerpon: {
     weightkg: 240,
     abilities: {0: 'Purifying Salt'},
   },
+    'Corviknight-Flying/Dark': {
+        types: ['Flying', 'Steel'],
+        bs: { hp: 98, at: 87, df: 105, sa: 53, sd: 85, sp: 67 },
+        weightkg: 75,
+        abilities: { 0: 'Unnerve' },
+    },    
     
     
     /////////////////////////////////////////////////////////////////////////////////////////////
