@@ -151,8 +151,8 @@ var SETDEX_SS = {
     "gender": "M"
    }
   },
-    "Lucario":
-  {"Weyland [+HP]":
+ "Lucario":
+    {"Weyland [+HP]":
    {"level":60,
     "ability":"Steadfast",
     "item":"None",
@@ -160,8 +160,18 @@ var SETDEX_SS = {
     "evs":{"df":200, "sa":100},
     "moves":["Focus Blast","Metal Sound","Heal Pulse","Meteor Mash"],
     "gender": "M"
+   },
+  "Kami Zande":
+   {"level":57,
+    "ability":"Inner Focus",
+    "item":"None",
+    "nature":"Modest",
+    "evs":{"df":200, "sa":100},
+    "moves":["Aura Sphere","Flash Cannon","Dragon Pulse","Calm Mind"],
+    "gender": "M"
    }
   },
+  
     "Eiscue":
   {"Oxford":
    {"level":53,
@@ -1740,6 +1750,46 @@ var SETDEX_SS = {
     "evs":{"at":100, "sp":100},
     "moves":["Night Slash", "Petal Blizzard","Worry Seed","Taunt"],
     "gender": "F"
+   }
+  },
+  "Corviknight-Flying/Dark":
+    {"Aurelie":
+     {"level":50,
+      "ability":"Unnerve",
+      "item":"None",
+      "nature":"Bashful",
+      "evs":{"df":100, "sd":100},
+      "moves": ["Thief", "Torment", "Drill Peck", "Body Press"],
+      "gender": "F"
+     },
+ "Solange":
+     {"level":50,
+      "ability":"Unnerve",
+      "item":"None",
+      "nature":"Hasty",
+      "evs":{"sp":200},
+      "moves": ["Thief", "Torment", "Drill Peck", "Body Press"],
+      "gender": "F"
+     },
+"Thibault":
+     {"level":59,
+      "ability":"Unnerve",
+      "item":"None",
+      "nature":"Naughty",
+      "evs":{"at":100, "sp":100},
+      "moves": ["Thief", "Torment", "Drill Peck", "Body Press"],
+      "gender": "M"
+     }
+  },
+"Charcadet-Aeriditz":
+  {"Aeriditz":
+   {"level":55,
+    "ability":"Flash Fire",
+    "item":"None",
+    "nature":"Rash",
+    "evs":{"at":100, "df":100},
+    "moves":["Fire Spin","Clear Smog","Astonish","Flame Charge"],
+    "gender": "M"
    }
   },
 
