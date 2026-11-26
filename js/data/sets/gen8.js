@@ -1453,7 +1453,7 @@ var SETDEX_SS = {
       "item":"None",
       "nature":"Calm",
       "evs":{"hp":100, "sp":200},
-      "moves": ["Icy Wind", "Dazzling Gleam", "Confuse Ray", "Disable"],
+      "moves": ["Icy Wind", "Dazzling Gleam", "Blizzard", "Disable"],
       "gender": "F"
      }
   },
